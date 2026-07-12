@@ -28,7 +28,6 @@ A full-stack **Food Ordering Web Application** that enables users to browse rest
 
 ### 🎁 Additional Features
 
-* Coupon Support
 * AI Review Analysis
 * Responsive User Interface
 * Secure Backend APIs
